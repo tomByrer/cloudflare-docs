@@ -88,10 +88,6 @@ description="Measure download/upload connection speed from the client side, usin
 
 {{<worker-starter title="GraphQL Yoga" repo="the-guild-org/yoga-cloudflare-workers-template" description="The most flexible, fastest, and lightest GraphQL server for all environments, Cloudflare Workers included.">}}
 
-{{<worker-starter title="Flareact" repo="flareact/flareact" description="Flareact is an edge-rendered React framework built for Cloudflare Workers. It features file-based page routing with dynamic page paths and edge-side data fetching APIs.">}}
-
-{{<worker-starter title="Sunder" repo="sunderjs/sunder-worker-template" description="Sunder is a minimal and unopinionated framework for Service Workers. This template uses Sunder, TypeScript, Miniflare, esbuild, Jest, and Sass, as well as Workers Sites for static assets.">}}
-
 ---
 
 ## Built with Workers
